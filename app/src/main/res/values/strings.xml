@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LectorNFC</string>
+    <string name="agregar">TODO</string>
+    <string name="hold_a_tag_against_the_back_of_your_device">Hold a tag against the back of your device</string>
+</resources>
